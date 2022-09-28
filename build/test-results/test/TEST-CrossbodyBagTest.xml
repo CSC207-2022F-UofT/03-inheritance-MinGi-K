@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CrossbodyBagTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-28T06:48:12" hostname="MinGis-MacBook-Air.local" time="0.008">
+<testsuite name="CrossbodyBagTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-28T06:55:41" hostname="MinGis-MacBook-Air.local" time="0.007">
   <properties/>
-  <testcase name="TestToString" classname="CrossbodyBagTest" time="0.008"/>
-  <testcase name="TestEnhance" classname="CrossbodyBagTest" time="0.0"/>
-  <testcase name="TestGetNumberOfStraps" classname="CrossbodyBagTest" time="0.0"/>
+  <testcase name="TestToString" classname="CrossbodyBagTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
